@@ -78,12 +78,5 @@ A aplicação consome a [BrasilAPI](https://brasilapi.com.br/) para popular dina
 
 Este projeto está sob a licença MIT. Sinta-se livre para utilizar e modificar!
 
-```
-
----
-
-💡 **Dica para o GitHub:** Certifique-se de que os arquivos `cadastro.png` e `consulta.png` foram commitados no repositório (`git add cadastro.png consulta.png` e depois `git commit -m "docs: adiciona prints no README"`), caso contrário as imagens ficarão quebradas na visualização do GitHub.
-
-<FollowUp label="Quer adicionar instruções de como fazer o build ou o deploy do projeto?" query="Como posso adicionar instruções de build de produção e deploy no README?"/>
 
 ```
