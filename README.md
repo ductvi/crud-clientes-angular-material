@@ -10,12 +10,12 @@ Aplicação web desenvolvida em **Angular** com **Angular Material** e integraç
 ### 🟢 Tela de Cadastro
 Formulário dinâmico com suporte a máscaras de CPF e Data de Nascimento, além de carregamento dinâmico de UFs e Municípios via BrasilAPI.
 
-![Tela de Cadastro](./cadastro.png)
+![Tela de Cadastro](/cadastro.png)
 
 ### 🔵 Tela de Consulta
 Listagem e busca de clientes cadastrados no sistema.
 
-![Tela de Consulta](./consulta.png)
+![Tela de Consulta](/consulta.png)
 
 ---
 
